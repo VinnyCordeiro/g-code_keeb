@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+SW24,SW_Push,SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,118.35,-41.5625,180.0,bottom
+SW25,SW_Push,SW_PUSH_6mm,109.8,-39.95,180.0,bottom
+U1,ATmega32U4-A,TQFP-44_10x10mm_P0.8mm,123.939524,-73.1,270.0,bottom
