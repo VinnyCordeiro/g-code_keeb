@@ -16,6 +16,7 @@ Because as much as I love the GPL, it was created for Open Source **Software**. 
 
 ### TODO
 * Add instructions on how to flash the ATmega32U4 microcontroller with Klipper
+* Add instructions on how to configure Klipper to take advantage of this keyboard
 * Design a case
 
 ### UPDATES
