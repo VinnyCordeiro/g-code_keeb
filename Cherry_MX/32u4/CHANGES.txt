@@ -1,0 +1,3 @@
+May 19th, 2022: initial public release.
+
+May 21st, 2022: moved the original files to the Cherry_MX/32u4 subdirectory, so I can host two new versions: one still using Cherry MX-type switches but with a Raspberry Pi Pico microcontroller board, and a tact buttons version that also uses the Pico. Given the current components shortage that has no date to end, it's wiser to phase out the 32u4 designs of mine and migrate them to the Pico/RP2040.
