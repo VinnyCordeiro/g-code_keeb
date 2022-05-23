@@ -28,4 +28,4 @@ May 19th, 2022: Initial public release.
 
 May 21st, 2022: Added a tact switch version of the board, using a Raspberry Pi Pico as the microcontroller. Because of that I also reorganized the repository a little bit.
 
-May 22nd, 2022: Corrected some mistakes on the design of the Cherry MX 32u4 version, added the Cherry MX Pico version, and made some other small fixes and management chores.
+May 22nd, 2022: Corrected some mistakes on the design of the Cherry MX 32u4 version, added the Cherry MX Pico version, made some other small fixes (specially on silkscreen on all boards), and management chores.
