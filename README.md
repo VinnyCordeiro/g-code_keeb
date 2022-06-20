@@ -12,7 +12,7 @@ I broke it down to a Dupont connector, that gives the user more flexibility to m
 
 * ***Why an ATmega32U4-AU version if you are also adding the Raspberry Pi Pico as microcontroller?***
 
-Because I already have some that I bought years before the current components shortage, and since they are already available I might as well use them.
+Because I already have some that I bought years before the current components shortage, and since they are already available I might as well use them. _However_, if you are going to build one for yourself, I highly recommend going with one of the Pico versions, as it already have an USB connector and doesn't require any additional components soldered on the board other than the switches themselves.
 
 * ***Why have you chosen the CERN Open Hardware Licence?***
 
@@ -31,3 +31,5 @@ May 21st, 2022: Added a tact switch version of the board, using a Raspberry Pi P
 May 22nd, 2022: Corrected some mistakes on the design of the Cherry MX 32u4 version, added the Cherry MX Pico version, made some other small fixes (specially on silkscreen on all boards), and management chores.
 
 May 24th, 2022: Fixed some more silkscreen mistakes. It never ends.
+
+June 20th, 2022: Added a recommendation for the Raspberry Pi Pico versions. I have built the 32u4 version, and after many struggles to build it and make it work, it's just easier (and cheaper) going with the Pico.
