@@ -33,3 +33,25 @@ May 22nd, 2022: Corrected some mistakes on the design of the Cherry MX 32u4 vers
 May 24th, 2022: Fixed some more silkscreen mistakes. It never ends.
 
 June 20th, 2022: Added a recommendation for the Raspberry Pi Pico versions. I have built the 32u4 version, and after many struggles to build it and make it work, it's just easier (and cheaper) going with the Pico.
+
+<hr />
+<table border="0px">
+<th align="left">
+&copy; G-Code keeb 2022.
+</th>
+<tr>
+<td>
+This documentation describes Open Hardware and is licensed under the CERN Open Hardware Licence version 2 - Strongly Reciprocal.
+</td>
+</tr>
+<tr>
+<td>
+You may redistribute and modify this documentation under the terms of the
+CERN-OHL-S v2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable
+conditions.
+</td>
+</tr>
+</table>
